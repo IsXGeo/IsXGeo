@@ -4,8 +4,8 @@
     # GitHub access token with Repo scope
     GH_TOKEN: # default is ${{ github.token }}
     # Your Wakatime API Key
-    WAKATIME_API_KEY: IsXGeo
+    WAKATIME_API_KEY: 80430106-f470-4ee4-ab2a-150c4b21e51d
     # Your GitHub username
-    USERNAME: # optional, default is ${{ github.repository_owner }}
+    USERNAME: IsXGeo# optional, default is ${{ github.repository_owner }}
     # Displays the week number and days in Readme as title
     SHOW_TITLE: # optiona
