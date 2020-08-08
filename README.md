@@ -2,7 +2,7 @@
 
 ## **Some of my repos**
 
-<table style="width:100%">
+<table style="width:100%" border="0px">
   <tr>
     <td><a href="https://github.com/IsXGeo/PyMedusa-VideoConverter"><img align="center" alt="IsXGeo's VideoConverter Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true"/></a></td>
     <td><a href="https://github.com/IsXGeo/hungergames"><img align="center" alt="IsXGeo's Hungergames Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true"/></a></td>
