@@ -5,6 +5,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true)](https://github.com/IsXGeo/PyMedusa-VideoConverter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true)](https://github.com/IsXGeo/hungergames)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## **A few goals I have in mind**
 
 - Attain some level of c# competency
