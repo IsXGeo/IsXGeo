@@ -2,8 +2,8 @@
 
 ## **Some of my repos**
 
-<a href="https://github.com/IsXGeo/PyMedusa-VideoConverter"><img align="center" alt="IsXGeo's VideoConverter Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true"/></a>
-<a href="https://github.com/IsXGeo/hungergames"><img align="center" alt="IsXGeo's Hungergames Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true"/></a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true)](https://github.com/IsXGeo/PyMedusa-VideoConverter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true)](https://github.com/IsXGeo/hungergames)
 
 ## **A few goals I have in mind**
 
