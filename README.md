@@ -3,6 +3,9 @@
 ## **A few goals I have in mind**
 
 - Attain some level of c# competency
+- Gain a better understanding of the programming community
+- Contribute to some open source projects
+- Develop my own video game
 
 ## **Stuff I know and love**
 
@@ -18,12 +21,22 @@ I have a little experience with java from coding a few minecraft plugins for fun
 
 C# is so far my favourite language simply because I found that it had some similarites to java which made it very easy to adapt to. It is also the language I am actively learning at the moment.
 
-## **Some of my stats**
+## **Tools that I use**
 
-<img align="left" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsXGeo&count_private=true&show_icons=true&include_all_commits=true&theme=radical" /><br/>
+- [Visual Studio Code](https://code.visualstudio.com/)
+  & [Visual Studio](https://visualstudio.microsoft.com/)
+- [IntelliJ Idea](https://www.jetbrains.com/idea/)
+- [Pycharm](https://www.jetbrains.com/pycharm/)
+- [Windows Terminal](https://github.com/microsoft/terminal)
+- [Cascadia Code PowerLine](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
+-
 
-<img align="left" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&theme=radical" />
+## **My repo stats**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=VideoConverter)](https://github.com/IsXGeo/VideoConverter)
+<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsXGeo&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
 
-https://github.com/anuraghazra/github-readme-stats
+## **My language stats**
+
+<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&theme=radical"/><br>
+
+### You can get these cool things at [here](https://github.com/anuraghazra/github-readme-stats)
