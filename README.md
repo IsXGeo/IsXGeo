@@ -32,10 +32,10 @@ C# is so far my favourite language simply because I found that it had some simil
 
 ## **My repo stats**
 
-<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsXGeo&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
+<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsXGeo&count_private=true&show_icons=true&include_all_commits=true"/>
 
 ## **My language stats**
 
-<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&theme=radical"/><br>
+<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo"/><br>
 
 ### You can get these cool things [here](https://github.com/anuraghazra/github-readme-stats)
