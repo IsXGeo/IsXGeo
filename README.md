@@ -29,7 +29,6 @@ C# is so far my favourite language simply because I found that it had some simil
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [Cascadia Code PowerLine](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
--
 
 ## **My repo stats**
 
@@ -39,4 +38,4 @@ C# is so far my favourite language simply because I found that it had some simil
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&theme=radical"/><br>
 
-### You can get these cool things at [here](https://github.com/anuraghazra/github-readme-stats)
+### You can get these cool things [here](https://github.com/anuraghazra/github-readme-stats)
