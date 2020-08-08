@@ -1,5 +1,14 @@
 # **My names Josh, aka IsGeo or IsXGeo**
 
+## **Some of my repos**
+
+<table style="width:100%">
+  <tr>
+    <td><a href="https://github.com/IsXGeo/PyMedusa-VideoConverter"><img align="center" alt="IsXGeo's VideoConverter Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true"/></a></td>
+    <td><a href="https://github.com/IsXGeo/hungergames"><img align="center" alt="IsXGeo's Hungergames Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true"/></a></td>
+  </tr>
+</table>
+
 ## **A few goals I have in mind**
 
 - Attain some level of c# competency
@@ -38,4 +47,4 @@ C# is so far my favourite language simply because I found that it had some simil
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo"/><br>
 
-### You can get these cool things [here](https://github.com/anuraghazra/github-readme-stats)
+###### You can get these cool github stat apis [here](https://github.com/anuraghazra/github-readme-stats).
