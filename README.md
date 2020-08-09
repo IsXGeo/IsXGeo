@@ -8,7 +8,13 @@
 ### **Recent Activity**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 August, 2020 - 08 August, 2020
+
+C#         1 hr 27 mins    ████████████░░░░░░░░░░░░░   49.36 % 
+unity      55 mins         ███████░░░░░░░░░░░░░░░░░░   31.17 % 
+Markdown   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+YAML       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 <!--END_SECTION:waka-->
 
