@@ -8,7 +8,7 @@
 ### **Recent Activity**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2020 - 20 August, 2020
+Week: 14 August, 2020 - 21 August, 2020
 
 C#         1 hr 27 mins    ████████████▒░░░░░░░░░░░░   49.36 % 
 unity      55 mins         ███████▓░░░░░░░░░░░░░░░░░   31.17 % 
