@@ -1,11 +1,11 @@
 <h1 align="center">My names Josh, aka IsGeo or IsXGeo</h1>
 
-<h2 alig="center">Some of my repos</h3>
+<h2 align="center">Some of my repos</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true)](https://github.com/IsXGeo/PyMedusa-VideoConverter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true)](https://github.com/IsXGeo/hungergames)
 
-<h2 alig="center">Recent Activity</h3>
+<h2 align="center">Recent Activity</h2>
 <!--START_SECTION:waka-->
 ```text
 Week: 15 August, 2020 - 22 August, 2020
