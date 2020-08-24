@@ -20,10 +20,15 @@ JSON       3 mins          ▒░░░░░░░░░░░░░░░░�
 
 ## **A few goals I have in mind**
 
-- Attain some level of c# competency
 - Gain a better understanding of the programming community
 - Contribute to some open source projects
 - Develop my own video game
+
+## **What am I doing now?**
+Probably listening to music :p
+[![Spotify](https://spotify-github-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31u3d5zmrym4ouwaxuu3ffugrdx4)
+
+But actually learning Rust atm.
 
 ## **Stuff I know and love**
 
@@ -39,7 +44,7 @@ I have a little experience with java from coding a few minecraft plugins for fun
 
 **C#** with **Unity** and **Godot**
 
-C# is so far my favourite language simply because I found that it had some similarites to java which made it very easy to adapt to. It is also the language I am actively learning at the moment.
+C# is so far my favourite language simply because I found that it had some similarites to java which made it very easy to adapt to.
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&layout=compact"/><br>
 
@@ -52,9 +57,6 @@ C# is so far my favourite language simply because I found that it had some simil
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [Cascadia Code PowerLine](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
 - [Blender](https://www.blender.org)
-
-## What am I listening to?
-[![Spotify](https://spotify-github-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31u3d5zmrym4ouwaxuu3ffugrdx4)
 
 ## **My repo stats**
 
