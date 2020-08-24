@@ -41,6 +41,8 @@ I have a little experience with java from coding a few minecraft plugins for fun
 
 C# is so far my favourite language simply because I found that it had some similarites to java which made it very easy to adapt to. It is also the language I am actively learning at the moment.
 
+<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&layout=compact"/><br>
+
 ## **Tools that I use**
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -54,9 +56,5 @@ C# is so far my favourite language simply because I found that it had some simil
 ## **My repo stats**
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsXGeo&count_private=true&show_icons=true&include_all_commits=true"/>
-
-## **My language stats**
-
-<img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo?layout=compact"/><br>
 
 ###### You can get these cool github stat apis [here](https://github.com/anuraghazra/github-readme-stats).
