@@ -54,7 +54,7 @@ C# is so far my favourite language simply because I found that it had some simil
 - [Blender](https://www.blender.org)
 
 ## What am I listening to?
-[![Spotify](https://novatorem-six-eosin.vercel.app/spotify)](https://open.spotify.com/user/31u3d5zmrym4ouwaxuu3ffugrdx4)
+[![Spotify](https://spotify-github-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31u3d5zmrym4ouwaxuu3ffugrdx4)
 
 ## **My repo stats**
 
