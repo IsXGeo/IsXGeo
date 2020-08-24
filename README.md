@@ -53,6 +53,9 @@ C# is so far my favourite language simply because I found that it had some simil
 - [Cascadia Code PowerLine](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
 - [Blender](https://www.blender.org)
 
+## What am I listening to?
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ## **My repo stats**
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsXGeo&count_private=true&show_icons=true&include_all_commits=true"/>
