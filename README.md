@@ -1,11 +1,11 @@
-# **My names Josh, aka IsGeo or IsXGeo**
+<h1 align="center">My names Josh, aka IsGeo or IsXGeo</h1>
 
-## **Some of my repos**
+<h2 alig="center">Some of my repos</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true)](https://github.com/IsXGeo/PyMedusa-VideoConverter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true)](https://github.com/IsXGeo/hungergames)
 
-### **Recent Activity**
+<h2 alig="center">Recent Activity</h3>
 <!--START_SECTION:waka-->
 ```text
 Week: 15 August, 2020 - 22 August, 2020
@@ -27,6 +27,8 @@ JSON       3 mins          ▒░░░░░░░░░░░░░░░░�
 
 ## **Stuff I know and love**
 
+<p align="left"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isxgeo&layout=compact&hide=html" alt="isxgeo" /></p>
+
 **Python** (Py3)
 
 I love python because it is so easy to draft and wrap your head around things. It wasn't my first language but I sure wish it was!
@@ -47,6 +49,7 @@ C# is so far my favourite language simply because I found that it had some simil
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [Cascadia Code PowerLine](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
+- [Blender](https://www.blender.org)
 
 ## **My repo stats**
 
