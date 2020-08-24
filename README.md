@@ -5,7 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true)](https://github.com/IsXGeo/PyMedusa-VideoConverter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true)](https://github.com/IsXGeo/hungergames)
 
-<h2 align="center">Recent Activity</h2>
+## Recent Activity
 <!--START_SECTION:waka-->
 ```text
 Week: 15 August, 2020 - 22 August, 2020
