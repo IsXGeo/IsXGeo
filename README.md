@@ -8,7 +8,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2020 - 28 August, 2020
+Week: 22 August, 2020 - 29 August, 2020
 
 Other   4 mins          █████████████████████████   100.00 % 
 unity   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
