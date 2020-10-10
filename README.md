@@ -8,7 +8,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
 Other   4 mins          █████████████████████████   100.00 % 
 ```
