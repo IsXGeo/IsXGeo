@@ -8,11 +8,11 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
-YAML         20 hrs 33 mins  ████████████████████████▓   98.90 % 
-Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+YAML         23 hrs 23 mins  ████████████████████████▓   99.13 % 
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
 
