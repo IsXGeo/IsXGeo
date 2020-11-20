@@ -8,10 +8,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2020 - 18 November, 2020
-
-Other   1 hr 2 mins     ████████████████████▒░░░░   80.97 % 
-YAML    14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
