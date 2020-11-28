@@ -8,7 +8,9 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 November, 2020 - 27 November, 2020
+
+Other   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
