@@ -8,9 +8,11 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2020 - 27 November, 2020
+Week: 21 November, 2020 - 28 November, 2020
 
-Other   1 min           █████████████████████████   100.00 % 
+Other        3 hrs 21 mins   ██████████████████████░░░   87.70 % 
+Git Config   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 <!--END_SECTION:waka-->
 
