@@ -8,11 +8,13 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
-Other        3 hrs 21 mins   ██████████████████████░░░   87.70 % 
-Git Config   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Other        5 hrs 10 mins   ██████████████████▓░░░░░░   74.75 % 
+Markdown     1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Git Config   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Rust         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
 
