@@ -8,7 +8,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
 Other        5 hrs 10 mins   ██████████████████▓░░░░░░   74.75 % 
 Markdown     1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
