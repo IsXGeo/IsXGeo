@@ -8,7 +8,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2020 - 01 December, 2020
+Week: 25 November, 2020 - 02 December, 2020
 
 Other        5 hrs 30 mins   ███████████████▓░░░░░░░░░   62.68 % 
 Rust         1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
