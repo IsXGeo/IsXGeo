@@ -1,10 +1,5 @@
 <h1 align="center">My names Josh, aka IsGeo or IsXGeo</h1>
 
-<h2 align="center">Some of my repos</h2>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=PyMedusa-VideoConverter&show_owner=true)](https://github.com/IsXGeo/PyMedusa-VideoConverter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsXGeo&repo=hungergames&show_owner=true)](https://github.com/IsXGeo/hungergames)
-
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
