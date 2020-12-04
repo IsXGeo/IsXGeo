@@ -21,15 +21,12 @@ JSON         13 mins         ▓░░░░░░░░░░░░░░░░
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&layout=compact"/><br>
 
-## **Tools that I use**
+## **What do I use?**
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-  & [Visual Studio](https://visualstudio.microsoft.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code is my preferred editor of choice because its one program that can do almost everything I need, whether that be the occasional python script or editing config files for something.
 - [IntelliJ Idea](https://www.jetbrains.com/idea/)
-- [Pycharm](https://www.jetbrains.com/pycharm/)
-- [Windows Terminal](https://github.com/microsoft/terminal)
-- [Cascadia Code PowerLine](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
 - [Blender](https://www.blender.org)
+- [KDE Plasma](https://kde.org/) Why KDE Plasma? Its simple and easy to use out of the box. I get the support of ubuntu with a built-in ready to use interface that isn't GNOME because I just don't like GNOME.
 
 ## **My repo stats**
 
