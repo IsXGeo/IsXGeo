@@ -19,28 +19,6 @@ JSON         13 mins         ▓░░░░░░░░░░░░░░░░
 - Contribute to some open source projects
 - Develop my own video game
 
-## **What am I doing now?**
-Probably listening to music :p
-[![Spotify](https://spotify-github-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31u3d5zmrym4ouwaxuu3ffugrdx4)
-
-But actually learning Rust atm.
-
-## **Stuff I know and love**
-
-<p align="left"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-
-**Python** (Py3)
-
-I love python because it is so easy to draft and wrap your head around things. It wasn't my first language but I sure wish it was!
-
-**Java**
-
-I have a little experience with java from coding a few minecraft plugins for fun. Not super intense or in-depth but still enjoy the language. It was also the first language I really dove into.
-
-**C#** with **Unity** and **Godot**
-
-C# is so far my favourite language simply because I found that it had some similarites to java which made it very easy to adapt to.
-
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsXGeo&layout=compact"/><br>
 
 ## **Tools that I use**
