@@ -3,13 +3,13 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2020 - 05 December, 2020
+Week: 29 November, 2020 - 06 December, 2020
 
-Other      2 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.26 % 
-Rust       1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
-Markdown   1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-JSON       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Vue.js     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Rust       1 hr 17 mins    ██████████████▒░░░░░░░░░░   57.71 % 
+Other      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JSON       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Vue.js     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 ```
 <!--END_SECTION:waka-->
 
