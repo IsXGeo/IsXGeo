@@ -3,10 +3,9 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
-Vue.js   9 mins          ████████████▒░░░░░░░░░░░░   49.96 % 
-Other    8 mins          ███████████▓░░░░░░░░░░░░░   46.36 % 
+Other   8 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
