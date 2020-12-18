@@ -3,7 +3,9 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 December, 2020 - 17 December, 2020
+
+
 ```
 <!--END_SECTION:waka-->
 
