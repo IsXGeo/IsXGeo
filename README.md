@@ -3,11 +3,11 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
-Other        28 mins         ███████████████▓░░░░░░░░░   63.15 % 
-JSON         9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-PowerShell   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Other        41 mins         ██████████████████░░░░░░░   71.48 % 
+JSON         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+PowerShell   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 ```
 <!--END_SECTION:waka-->
 
