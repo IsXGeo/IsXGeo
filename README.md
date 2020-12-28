@@ -3,10 +3,10 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
-JSON       54 mins         █████████████▒░░░░░░░░░░░   53.87 % 
-Other      45 mins         ███████████▒░░░░░░░░░░░░░   45.05 % 
+JSON       54 mins         ███████████████▒░░░░░░░░░   61.91 % 
+Other      32 mins         █████████▒░░░░░░░░░░░░░░░   36.85 % 
 ```
 <!--END_SECTION:waka-->
 
