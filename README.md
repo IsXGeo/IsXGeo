@@ -3,13 +3,13 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
-JavaScript   25 hrs 27 mins  █████████████████████░░░░   83.69 % 
-JSON         3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Markdown     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-PowerShell   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JavaScript   27 hrs 13 mins  ████████████████████▓░░░░   83.26 % 
+JSON         4 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Markdown     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 <!--END_SECTION:waka-->
 
