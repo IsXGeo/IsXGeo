@@ -3,7 +3,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
 JavaScript   5 hrs 39 mins   ██████████████▓░░░░░░░░░░   58.38 % 
 JSON         1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.12 % 
