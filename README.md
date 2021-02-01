@@ -3,7 +3,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
 Lua     3 hrs 42 mins   ███████████████████████▒░   93.31 % 
 JSON    13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
