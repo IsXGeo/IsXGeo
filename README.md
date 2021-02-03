@@ -3,12 +3,12 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2021 - 01 February, 2021
+Week: 26 January, 2021 - 02 February, 2021
 
-Lua     3 hrs 42 mins   ███████████████████████▒░   93.31 % 
-JSON    13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-TOML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Vue.js       1 hr 2 mins     ███████████░░░░░░░░░░░░░░   43.72 % 
+HTML         40 mins         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+JavaScript   33 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
+CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 <!--END_SECTION:waka-->
 
