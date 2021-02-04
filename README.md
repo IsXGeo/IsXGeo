@@ -3,7 +3,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2021 - 02 February, 2021
+Week: 27 January, 2021 - 03 February, 2021
 
 Vue.js       1 hr 2 mins     ███████████░░░░░░░░░░░░░░   43.72 % 
 HTML         40 mins         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
