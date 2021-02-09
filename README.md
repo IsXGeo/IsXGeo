@@ -3,12 +3,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
-
-Vue.js       1 hr 2 mins     ███████████░░░░░░░░░░░░░░   43.72 % 
-HTML         40 mins         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-JavaScript   33 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
-CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
