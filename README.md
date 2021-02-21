@@ -3,7 +3,9 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 February, 2021 - 20 February, 2021
+
+Other   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
