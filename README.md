@@ -3,9 +3,10 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
-Other   4 mins          █████████████████████████   100.00 % 
+Batchfile   8 mins          ███████████████▓░░░░░░░░░   62.33 % 
+JSON        4 mins          ████████▓░░░░░░░░░░░░░░░░   34.22 % 
 ```
 <!--END_SECTION:waka-->
 
