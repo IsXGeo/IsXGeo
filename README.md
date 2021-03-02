@@ -3,7 +3,7 @@
 ## Recent Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
 Batchfile   8 mins          ███████████████▓░░░░░░░░░   62.33 % 
 JSON        4 mins          ████████▓░░░░░░░░░░░░░░░░   34.22 % 
